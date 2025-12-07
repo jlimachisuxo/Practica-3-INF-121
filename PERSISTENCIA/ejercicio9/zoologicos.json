@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "nombre": "Zoo Metropolitano",
+    "nroAnimales": 7,
+    "animales": [
+      {
+        "especie": "Mamífero",
+        "nombre": "León",
+        "cantidad": 5
+      },
+      {
+        "especie": "Ave",
+        "nombre": "Águila",
+        "cantidad": 3
+      },
+      {
+        "especie": "Reptil",
+        "nombre": "Serpiente",
+        "cantidad": 8
+      },
+      {
+        "especie": "Mamífero",
+        "nombre": "Elefante",
+        "cantidad": 1
+      },
+      {
+        "especie": "Ave",
+        "nombre": "Loro",
+        "cantidad": 10
+      },
+      {
+        "especie": "Reptil",
+        "nombre": "Cocodrilo",
+        "cantidad": 2
+      },
+      {
+        "especie": "Insecto",
+        "nombre": "Mariposa",
+        "cantidad": 100
+      }
+    ]
+  }
+]

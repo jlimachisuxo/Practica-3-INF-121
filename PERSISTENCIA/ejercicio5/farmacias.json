@@ -1,0 +1,62 @@
+[
+  {
+    "nombreFarmacia": "FarmaTotal",
+    "sucursal": 1,
+    "direccion": "Av. Siempre Viva 742",
+    "nroMedicamentos": 2,
+    "medicamentos": [
+      {
+        "nombre": "Tapsin",
+        "codMedicamento": 101,
+        "tipo": "Resfrio",
+        "precio": 5.5
+      },
+      {
+        "nombre": "Paracetamol",
+        "codMedicamento": 102,
+        "tipo": "Dolor",
+        "precio": 2.0
+      }
+    ]
+  },
+  {
+    "nombreFarmacia": "Farmasur",
+    "sucursal": 3,
+    "direccion": "Blvd. Central 100",
+    "nroMedicamentos": 1,
+    "medicamentos": [
+      {
+        "nombre": "Jarabe B",
+        "codMedicamento": 106,
+        "tipo": "Tos",
+        "precio": 9.5
+      }
+    ]
+  },
+  {
+    "nombreFarmacia": "Salud Max",
+    "sucursal": 2,
+    "direccion": "Calle 10 Nro 50",
+    "nroMedicamentos": 3,
+    "medicamentos": [
+      {
+        "nombre": "Ibuprofeno",
+        "codMedicamento": 104,
+        "tipo": "Dolor",
+        "precio": 3.5
+      },
+      {
+        "nombre": "Aspirina",
+        "codMedicamento": 105,
+        "tipo": "Dolor",
+        "precio": 1.5
+      },
+      {
+        "nombre": "Jarabe A",
+        "codMedicamento": 103,
+        "tipo": "Tos",
+        "precio": 8.0
+      }
+    ]
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "nombre": "Leche",
+    "fechaVencimiento": "2026-01-10",
+    "cantidad": 4
+  },
+  {
+    "nombre": "Huevos",
+    "fechaVencimiento": "2025-11-20",
+    "cantidad": 12
+  },
+  {
+    "nombre": "Mantequilla",
+    "fechaVencimiento": "2026-03-01",
+    "cantidad": 3
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "materia": "PROGRAMACION",
+    "notaFinal": 85.5,
+    "estudiante": {
+      "ru": "1001",
+      "nombre": "Ana",
+      "paterno": "García",
+      "materno": "López",
+      "edad": 20
+    }
+  },
+  {
+    "materia": "PROGRAMACION",
+    "notaFinal": 92.0,
+    "estudiante": {
+      "ru": "1002",
+      "nombre": "Juan",
+      "paterno": "Pérez",
+      "materno": "Mendoza",
+      "edad": 25
+    }
+  },
+  {
+    "materia": "ESTADISTICA",
+    "notaFinal": 60.0,
+    "estudiante": {
+      "ru": "1004",
+      "nombre": "Pedro",
+      "paterno": "Mamani",
+      "materno": "Quispe",
+      "edad": 22
+    }
+  },
+  {
+    "materia": "PROGRAMACION",
+    "notaFinal": 85.5,
+    "estudiante": {
+      "ru": "1001",
+      "nombre": "Ana",
+      "paterno": "García",
+      "materno": "López",
+      "edad": 20
+    }
+  },
+  {
+    "materia": "PROGRAMACION",
+    "notaFinal": 92.0,
+    "estudiante": {
+      "ru": "1002",
+      "nombre": "Juan",
+      "paterno": "Pérez",
+      "materno": "Mendoza",
+      "edad": 25
+    }
+  },
+  {
+    "materia": "ESTADISTICA",
+    "notaFinal": 60.0,
+    "estudiante": {
+      "ru": "1004",
+      "nombre": "Pedro",
+      "paterno": "Mamani",
+      "materno": "Quispe",
+      "edad": 22
+    }
+  }
+]

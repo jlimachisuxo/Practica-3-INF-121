@@ -1,0 +1,17 @@
+[
+  {
+    "nombreUsuarioCifrado": "mtXZyPAsGk/5lP1fVHHOmA\u003d\u003d",
+    "contrasenaCifrada": "+zzg/lFzBQoNEKG02hFeew\u003d\u003d",
+    "fechaCreacionTimestamp": 1765070591236
+  },
+  {
+    "nombreUsuarioCifrado": "Qqoe8y7ipK7czRdJCIeV+w\u003d\u003d",
+    "contrasenaCifrada": "Lskn/JrnQJHPG1bI3JAfHg\u003d\u003d",
+    "fechaCreacionTimestamp": 1765070591257
+  },
+  {
+    "nombreUsuarioCifrado": "o0yBFm533LFGnPiNIhgwXg\u003d\u003d",
+    "contrasenaCifrada": "LSiMiH4a2msiieikJhS3Sg\u003d\u003d",
+    "fechaCreacionTimestamp": 1765070591258
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "material": "Jacarandá",
+    "nroCuerdas": 10,
+    "cuerdas": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "material": "Naranjillo",
+    "nroCuerdas": 5,
+    "cuerdas": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "material": "Naranjillo",
+    "nroCuerdas": 8,
+    "cuerdas": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false
+    ]
+  }
+]
